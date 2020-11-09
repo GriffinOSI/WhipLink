@@ -1,4 +1,4 @@
-# ShortURL
+# WhipLink
 Totally original URL Shortening Service written in Kotlin  
 https://whiplink.xyz/
 
