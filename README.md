@@ -26,3 +26,4 @@ Example url
 - UI copy to clipboard
 - Save created URLs to session
 - Integration tests
+- Get mocks working
