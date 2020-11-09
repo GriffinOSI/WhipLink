@@ -16,3 +16,13 @@ Example url
 
 ## Architecure
 ![Architecture Diagram](https://raw.githubusercontent.com/GriffinOSI/ShortURL/master/Architecture.png?token=ACTUTB2EE5SVFQEZ2CJEGQC7VDEWY)
+
+## TODO
+- Allow custom short link values
+- Copy to clipboard
+- Strict validation
+- Dynamic length to handle (unlikely) collisions
+- UI tests
+- UI copy to clipboard
+- Save created URLs to session
+- Integration tests
